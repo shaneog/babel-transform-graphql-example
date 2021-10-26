@@ -1,0 +1,17 @@
+{
+  "name": "my-babel-preset",
+  "license": "UNLICENSED",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@babel/core": "^7.4.0",
+    "@babel/preset-react": "^7.13.13",
+    "babel-plugin-import-graphql": "^2.8.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.15.7",
+    "graphql": "^15.6.1",
+    "jest": "^27.2.5"
+  }
+}
